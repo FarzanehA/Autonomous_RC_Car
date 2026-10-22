@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Autonomous_RC_Car.gen/sources_1/ip/ila_0/sim/ila_0.vhd" \
+"../../../../Autonomous_RC_Car.srcs/sources_1/new/rear_motor_controller.vhd" \
+"../../../../Autonomous_RC_Car.srcs/sources_1/new/motor_pwm.vhd" \
+"../../../../Autonomous_RC_Car.srcs/sources_1/new/ultrasonic_controller.vhd" \
+"../../../../Autonomous_RC_Car.srcs/sources_1/new/obstacle_detector.vhd" \
+"../../../../Autonomous_RC_Car.srcs/sources_1/new/top_wrapper.vhd" \
+"../../../../Autonomous_RC_Car.srcs/sim_1/new/obstacle_detector_tb.vhd" \
+"../../../../Autonomous_RC_Car.srcs/sim_1/new/motor_pwm_tb.vhd" \
+"../../../../Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd" \
+
+# Do not sort compile order
+nosort

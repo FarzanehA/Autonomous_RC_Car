@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sources_1/new/rear_motor_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rear_motor_controller'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sources_1/new/top_wrapper.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'top_wrapper'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rear_motor_controller_tb'

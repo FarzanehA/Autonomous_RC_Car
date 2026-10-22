@@ -1,0 +1,7 @@
+Running: xsim.dir/rear_motor_controller_tb_behav/xsimk.exe -simmode gui -wdb rear_motor_controller_tb_behav.wdb -simrunnum 0 -socket 13027
+Design successfully loaded
+Design Loading Memory Usage: 10588 KB (Peak: 10588 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 13132 KB (Peak: 13132 KB)
+Simulation CPU Usage: 15 ms

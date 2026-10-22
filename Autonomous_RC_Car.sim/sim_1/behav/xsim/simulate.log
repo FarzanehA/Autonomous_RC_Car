@@ -1,0 +1,23 @@
+Time resolution is 1 ps
+Note: TEST 1: Reset stops the motor
+Time: 0 ps  Iteration: 0  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: TEST 1 PASSED
+Time: 10 us  Iteration: 0  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: TEST 2: Clear path enables motor PWM
+Time: 15 us  Iteration: 0  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: TEST 2 PASSED
+Time: 1010500 ns  Iteration: 2  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: TEST 3: Nearby obstacle stops motor
+Time: 1010500 ns  Iteration: 2  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: TEST 3 PASSED
+Time: 3013501 ns  Iteration: 0  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: TEST 4: Motor resumes when path clears
+Time: 3013501 ns  Iteration: 0  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: TEST 4 PASSED
+Time: 3015500 ns  Iteration: 2  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: TEST 5: Zero requested speed stops motor
+Time: 3015500 ns  Iteration: 2  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: TEST 5 PASSED
+Time: 5015500 ns  Iteration: 0  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
+Note: ALL REAR MOTOR CONTROLLER TESTS PASSED
+Time: 5015500 ns  Iteration: 0  Process: /rear_motor_controller_tb/stimulus  File: F:/_kar_Amuzi/Autonomous_RC_Car/Autonomous_RC_Car.srcs/sim_1/new/rear_motor_controller_tb.vhd
